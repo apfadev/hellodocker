@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Science Fiction",
+    "director": "Christopher Nolan",
+    "release_year": 2010
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "release_year": 1994
+  },
+  {
+    "id": 3,
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "director": "Quentin Tarantino",
+    "release_year": 1994
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "release_year": 2008
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "director": "Robert Zemeckis",
+    "release_year": 1994
+  },
+  {
+    "id": 6,
+    "title": "The Matrix",
+    "genre": "Action",
+    "director": "The Wachowskis",
+    "release_year": 1999
+  },
+  {
+    "id": 7,
+    "title": "The Godfather",
+    "genre": "Crime",
+    "director": "Francis Ford Coppola",
+    "release_year": 1972
+  },
+  {
+    "id": 8,
+    "title": "Titanic",
+    "genre": "Romance",
+    "director": "James Cameron",
+    "release_year": 1997
+  },
+  {
+    "id": 9,
+    "title": "Schindler's List",
+    "genre": "Biography",
+    "director": "Steven Spielberg",
+    "release_year": 1993
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "release_year": 2001
+  },
+  {
+    "id": 11,
+    "title": "Fight Club",
+    "genre": "Drama",
+    "director": "David Fincher",
+    "release_year": 1999
+  },
+  {
+    "id": 12,
+    "title": "Inglourious Basterds",
+    "genre": "War",
+    "director": "Quentin Tarantino",
+    "release_year": 2009
+  },
+  {
+    "id": 13,
+    "title": "The Silence of the Lambs",
+    "genre": "Thriller",
+    "director": "Jonathan Demme",
+    "release_year": 1991
+  },
+  {
+    "id": 14,
+    "title": "The Great Gatsby",
+    "genre": "Drama",
+    "director": "Baz Luhrmann",
+    "release_year": 2013
+  },
+  {
+    "id": 15,
+    "title": "Jurassic Park",
+    "genre": "Adventure",
+    "director": "Steven Spielberg",
+    "release_year": 1993
+  },
+  {
+    "id": 16,
+    "title": "The Shining",
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "release_year": 1980
+  },
+  {
+    "id": 17,
+    "title": "Avatar",
+    "genre": "Action",
+    "director": "James Cameron",
+    "release_year": 2009
+  },
+  {
+    "id": 18,
+    "title": "Braveheart",
+    "genre": "Biography",
+    "director": "Mel Gibson",
+    "release_year": 1995
+  },
+  {
+    "id": 19,
+    "title": "For a Few Dollars More",
+    "genre": "Western",
+    "director": "Sergio Leone",
+    "release_year": 1965
+  },
+  {
+    "id": 20,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "genre": "Romance",
+    "director": "Michel Gondry",
+    "release_year": 2014
+  },
+  {
+    "id": 21,
+    "title": "New movie",
+    "genre": "muajaja",
+    "director": "ffff",
+    "release_year": 2022
+  },
+  {
+    "id": 22,
+    "title": "string",
+    "genre": "string",
+    "director": "string",
+    "release_year": 0
+  },
+  {
+    "id": 23,
+    "title": "NoName",
+    "genre": "Unclasified",
+    "director": "NoOne",
+    "release_year": 2024
+  }
+]
