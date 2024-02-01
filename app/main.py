@@ -8,7 +8,7 @@ from pydantic import BaseModel, Field
 from datetime import datetime
 
 from starlette.requests import Request
-from jwt_manager import create_token, validate_token
+from .jwt_manager import create_token, validate_token
 from fastapi.security import HTTPBearer
 
 
@@ -27,8 +27,8 @@ def get_all_movies():
 
 
 class User(BaseModel):
-    email: str
-    password: str
+    email: str = "admin"
+    password: str = "admin"
 
 
 class Movie(BaseModel):
